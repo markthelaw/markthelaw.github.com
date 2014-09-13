@@ -12,6 +12,9 @@ tags: [android, bitcoin, alert]
 It is currently very basic. Developed in less than 24 hours. Currently it only connects to Coinbase.com to retrieve the Bitcoin price. It also only can do static interval. Target price alert will be added in future release.
 
 
+##Update 
+It was updated to version 1.2 back in May. I have never update this blog since. But go check it out!
+
 ### Android Usage
 I incorporated a few basic android components:
 1. Asynctask - to grab the price in the background.
