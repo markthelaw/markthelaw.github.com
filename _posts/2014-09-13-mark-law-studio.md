@@ -24,5 +24,5 @@ The only downside I have discovered is that the customization is lacking. But it
 
 
 There is one more thing, I have not figured out how to port Jekyll posts to Nibbleblog posts. But I will leave both site online parallely. 
-##Download Link
+##Link to New Blog
 [marklawstudio.com](http://marklawstudio.com)
