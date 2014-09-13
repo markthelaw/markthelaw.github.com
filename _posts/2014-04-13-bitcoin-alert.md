@@ -14,7 +14,7 @@ It is currently very basic. Developed in less than 24 hours. Currently it only c
 
 ##Update 
 It was updated to version 1.2 back in May. I have never update this blog since. But go check it out!
-
+[Bitcoin Price Alert v2](https://play.google.com/store/apps/details?id=com.mark.law.bitcoinpricealert)
 ### Android Usage
 I incorporated a few basic android components:
 1. Asynctask - to grab the price in the background.
