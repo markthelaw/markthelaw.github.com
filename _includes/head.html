@@ -1,7 +1,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.headtitle }}{% endif %}</title>
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="{{ site.description }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
@@ -31,4 +31,7 @@
 	  ga('create', 'UA-54935714-2', 'auto');
 	  ga('send', 'pageview');
 	</script>
+	
+	<!-- favicon -->
+	<link rel="shortcut icon" href="/img/favicon.png">
 </head>
