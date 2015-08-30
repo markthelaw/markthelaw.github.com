@@ -8,6 +8,6 @@ project-date: May 2015
 client: Myself
 clientSite: http://markthelaw.github.io/GoDemo/
 category: Go Development
-description: Simple Demo of how to use Monte Carlo method,  using throw the darts method to estimate the value of PI, and use it to estimate a stock/index prediction given the mean and standard deviation. <a href="http://markthelaw.github.io/GoDemo/">Monte PI</a> and <a href="http://markthelaw.github.io/montecarlostocks/">Monte Stocks</a> 
+description: The Monte Carlo method is a common estimation method with diverse applications. By "throwing darts" (choosing random values), one can estimate the value of PI <a href="http://markthelaw.github.io/GoDemo/">Monte PI</a>, or even estimate a stock/index prediction given its mean and standard deviation. <a href="http://markthelaw.github.io/montecarlostocks/">Monte Stocks</a> 
 
 ---

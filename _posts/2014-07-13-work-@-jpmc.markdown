@@ -8,6 +8,6 @@ project-date: July 2013 - Current
 client: JP Morgan Chase
 clientSite: https://www.jpmorgan.com/pages/jpmorgan
 category: Java Web App Development
-description: Understand business requirements and apply appropriate updates and enhancements to investment bank client facing applications. Full stack development - require knowledge of trade processing, ability to maintain data and represent data on front-end. Used various standard banking technologies.
+description: As a full stack developer at JP Morgan Chase, I am responsible for understanding the needs of investment bank and writing client-facing features to address those needs with data-rich displays.
 
 ---
