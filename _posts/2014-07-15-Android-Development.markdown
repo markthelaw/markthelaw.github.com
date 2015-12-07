@@ -4,10 +4,10 @@ modal-id: 4
 date: 2014-07-15
 img: game.png
 alt: image-alt
-project-date: April 2014
+project-date: Nov 2015
 client: Myself
-clientSite: https://play.google.com/store/apps/developer?id=Mark+Law+Studio
+clientSite: 
 category: Android Development
-description: 3 Apps. BS messenger, Shake shake, Bitcoin Alerts. Go check out my app store - <a href="https://play.google.com/store/apps/developer?id=Mark+Law+Studio">Play Store - Mark Law Studio</a>. 
+description: Hobby Android Experience, currently developing an App which will allow users to discover ways to save money based on their expenses data. A combo of Mint and Slickdeals - <a href="https://youtu.be/P8gwGqWxhpw">Simple Saving - Latest Progress</a>. 
 
 ---
