@@ -7,7 +7,7 @@ alt: image-alt
 project-date: July 2013 - Current
 client: JP Morgan Chase
 clientSite: https://www.jpmorgan.com/pages/jpmorgan
-category: Java Web App Development
-description: As a full stack developer at JP Morgan Chase, I am responsible for understanding the needs of investment bank and writing client-facing features to address those needs with data-rich displays.
+category: Python backend
+description: As a business focused python developer at JP Morgan Chase, I am responsible for understanding the needs of traders and regulations. Create new functionalities and support trading desks, downstream systems, and reports.
 
 ---
