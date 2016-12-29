@@ -8,6 +8,6 @@ project-date: July 2013 - Current
 client: JP Morgan Chase
 clientSite: https://www.jpmorgan.com/pages/jpmorgan
 category: Python backend
-description: As a business focused python developer at JP Morgan Chase, I am responsible for understanding the needs of traders and regulations. Create new functionalities and support trading desks, downstream systems, and reports.
+description: As a business focused Python developer at JPMC, I am responsible for understanding the needs of traders and regulations. Create new functionalities and support trading desks, downstream systems, and reports.
 
 ---
